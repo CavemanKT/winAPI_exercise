@@ -1,0 +1,4 @@
+﻿  1_stupid_error.cpp
+D:\Windows Kits\10\Include\10.0.22000.0\um\ddraw.h(41,1): warning C4005: 'CO_E_NOTINITIALIZED': macro redefinition
+D:\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(31499,1): message : see previous definition of 'CO_E_NOTINITIALIZED'
+  WindowsProject1.vcxproj -> D:\code\C_exercise\winAPI_exercise\1_stupid_error\x64\Debug\1_stupid_error.exe
